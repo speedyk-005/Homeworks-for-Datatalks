@@ -1,2 +1,4 @@
 # Homework-3-Machine-Learning-for-Classification
 I built a lead-scoring classifier and learned how mutual information, one-hot encoding, feature elimination, and regularization affect logistic regression.
+
+It is available in https://www.kaggle.com/code/spdk4011/homework-3-of-mlzoomcamp26
