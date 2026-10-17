@@ -1,9 +1,15 @@
 ### Objective
 Keeping all my DataTalksClub ML Zoomcamp submissions organized in one spot. This repo acts as a portal linking directly to my public Kaggle notebooks and homework runs.
 
-## Homeworks
+## Machine-Learning homeworks
 
-### Homework-3-Machine-Learning-for-Classification
+### Homework 2
+
+I trained a car fuel-efficiency regression model and compared missing-value strategies, regularization values, and split-seed stability.
+
+https://www.kaggle.com/code/spdk4011/homework-2-of-mlzoomcamp26
+
+### Homework 3
 I built a lead-scoring classifier and learned how mutual information, one-hot encoding, feature elimination, and regularization affect logistic regression.
 
 https://www.kaggle.com/code/spdk4011/homework-3-of-mlzoomcamp26
