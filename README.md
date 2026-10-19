@@ -13,3 +13,9 @@ https://www.kaggle.com/code/spdk4011/homework-2-of-mlzoomcamp26
 I built a lead-scoring classifier and learned how mutual information, one-hot encoding, feature elimination, and regularization affect logistic regression.
 
 https://www.kaggle.com/code/spdk4011/homework-3-of-mlzoomcamp26
+
+### Homework 4
+
+I evaluated a classifier with ROC AUC, precision, recall, and F1, then used cross-validation to measure score variation and tune a parameter.
+
+https://www.kaggle.com/code/spdk4011/homework-4-of-mlzoomcamp26
