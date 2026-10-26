@@ -19,3 +19,9 @@ https://www.kaggle.com/code/spdk4011/homework-3-of-mlzoomcamp26
 I evaluated a classifier with ROC AUC, precision, recall, and F1, then used cross-validation to measure score variation and tune a parameter.
 
 https://www.kaggle.com/code/spdk4011/homework-4-of-mlzoomcamp26
+
+### Homework 5
+
+I packaged a frozen ML model behind a FastAPI service, checked its response.
+
+https://www.kaggle.com/code/spdk4011/homework-5-of-mlzoomcamp26
