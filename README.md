@@ -3,6 +3,8 @@ Keeping all my DataTalksClub ML Zoomcamp submissions organized in one spot. This
 
 ## Machine-Learning homeworks
 
+https://courses.datatalks.club/ml-zoomcamp-2026/
+
 ### Homework 2
 
 I trained a car fuel-efficiency regression model and compared missing-value strategies, regularization values, and split-seed stability.
@@ -25,3 +27,10 @@ https://www.kaggle.com/code/spdk4011/homework-4-of-mlzoomcamp26
 I packaged a frozen ML model behind a FastAPI service, checked its response.
 
 https://www.kaggle.com/code/spdk4011/homework-5-of-mlzoomcamp26
+
+### Homework 6
+
+I compared decision trees, random forests, and XGBoost for car fuel-efficiency regression, then tuned tree depth, forest size, and learning rate.
+
+https://www.kaggle.com/code/spdk4011/homework-6-of-mlzoomcamp26
+
